@@ -1,0 +1,132 @@
+    .menutop {
+        background-color: black;
+    }
+    
+    .nenchinh {
+        background-color: #ccc;
+    }
+    
+    .menu ul {
+        color: white;
+        position: relative;
+    }
+    
+    .menu ul li a {
+        border-right: 1px solid white;
+    }
+    
+    .Cap2 ul li {
+        color: white;
+        position: relative;
+        background-color: black;
+        padding: 15px 0px;
+        margin: 0px;
+        list-style: none;
+        position: absolute;
+        width: 200px;
+    }
+    
+    .Cap2 ul li a {
+        border-right: none;
+    }
+    
+    .Cap2 a {
+        color: white;
+        border-right: none;
+    }
+    
+    .mainleft ul {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+    }
+    
+    .mainleft ul li {
+        list-style: none;
+        clear: left;
+    }
+    
+    .mainleft ul :hover {
+        display: inline-block;
+        opacity: 0.5;
+        transform: scale(1.1);
+    }
+    
+    .top1 img :hover {
+        display: inline-block;
+        opacity: 0.5;
+        transform: scale(1.1);
+    }
+    
+    .mainleft ul li h5 {
+        font-size: 10px;
+    }
+    
+    .mainleft ul li img {
+        float: left;
+        margin-right: 10px;
+    }
+    
+    .mainright {
+        float: right;
+    }
+    
+    .mainright ul {
+        margin: 0px;
+        padding: 0px;
+        list-style: none;
+        float: left;
+    }
+    
+    .mainright ul li {
+        list-style: none;
+        clear: left;
+    }
+    
+    .mainright ul li h5 {
+        font-size: 16px;
+    }
+    
+    .mainright ul li img {
+        float: left;
+        margin-right: 10px;
+    }
+    
+    .timkiem {
+        width: 200px;
+    }
+    
+    .danhmuc {
+        background-color: #ccc;
+        color: white;
+    }
+    
+    .footer ul {
+        list-style: none;
+    }
+    
+    .vieclam {
+        text-align: center;
+    }
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: black;
+        z-index: 1;
+    }
+    
+    .dropdown :hover .dropdown-content {
+        display: block;
+    }
+    
+    .dropdown-content a {
+        color: white;
+        padding: 20px 20px;
+        text-decoration: none;
+    }

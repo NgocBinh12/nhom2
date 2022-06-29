@@ -1,0 +1,35 @@
+
+
+.form {
+    margin: 25px;
+    margin-top: 0px;
+    border: solid 1px;
+    width: 500px;
+    background-color: aliceblue;
+	height:300px;
+}
+
+.form h2 {
+    text-align: center
+}
+
+.email,
+.password {
+	width :300px;
+    margin-left: 78px;
+    margin-bottom: 5px;
+}
+
+.form a {
+    text-decoration-line: none;
+}
+
+.form img {
+    width: 30px;
+}
+
+
+.icon {
+    width: 35px;
+}
+
